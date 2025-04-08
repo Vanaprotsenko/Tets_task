@@ -1,0 +1,28 @@
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+.env
+
+# Media and static files
+/media/
+staticfiles/
+*.pot
+*.pyc
+
+# Pytest and coverage reports
+.coverage
+*.cover
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+
